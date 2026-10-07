@@ -1,0 +1,1279 @@
+{
+    "Unmatched": 0,
+    "UnmatchedMods": [],
+    "GeneratedAt": "2026-10-07 21:33:00",
+    "Matched": 127,
+    "Mods": [
+        {
+            "FileName": "cupboard-1.21-2.9.jar",
+            "Status": "Success",
+            "ModTitle": "Cupboard 1.21-2.9",
+            "Version": "1.21-2.9",
+            "ProjectId": "curseforge",
+            "DownloadUrl": "https://mediafilez.forgecdn.net/files/6078/150/cupboard-1.21-2.9.jar",
+            "Sha1": "8f6eb497f60fb6a2cf2b276113d33e61b9a5c2a5",
+            "FileSize": 23509
+        },
+        {
+            "FileName": "gpumemleakfix-1.21-1.8.jar",
+            "Status": "Success",
+            "ModTitle": "GPU Memory Leak Fix 1.21-1.8",
+            "Version": "1.21-1.8",
+            "ProjectId": "curseforge",
+            "DownloadUrl": "https://mediafilez.forgecdn.net/files/5513/549/gpumemleakfix-1.21-1.8.jar",
+            "Sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208",
+            "FileSize": 6574
+        },
+        {
+            "FileName": "justdirethings-1.5.7.jar",
+            "Status": "Success",
+            "ModTitle": "Just Dire Things 1.5.7",
+            "Version": "1.5.7",
+            "ProjectId": "curseforge",
+            "DownloadUrl": "https://mediafilez.forgecdn.net/files/7463/40/justdirethings-1.5.7.jar",
+            "Sha1": "f0327d7d2f389020063849200a4128ac9dcb52da",
+            "FileSize": 2853190
+        },
+        {
+            "FileName": "aeronauticshotairfix-1.1.1.jar",
+            "Status": "Success",
+            "ModTitle": "Aeronautics Hot Air Fix 1.1.1",
+            "Version": "1.1.1",
+            "ProjectId": "Qhi65c7K",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Qhi65c7K/versions/8ka8XR8j/aeronauticshotairfix-1.1.1.jar",
+            "Sha1": "03aea7e35d77d192661dc1bcbf21d389480d84cc",
+            "FileSize": 342760
+        },
+        {
+            "FileName": "AI-Improvements-1.21-0.5.3.jar",
+            "Status": "Success",
+            "ModTitle": "1.21.x-0.5.3",
+            "Version": "0.5.3",
+            "ProjectId": "DSVgwcji",
+            "DownloadUrl": "https://cdn.modrinth.com/data/DSVgwcji/versions/dGNP90t0/AI-Improvements-1.21-0.5.3.jar",
+            "Sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45",
+            "FileSize": 28984
+        },
+        {
+            "FileName": "amendments-1.21-2.1.10-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "amendments-1.21-2.1.10-neoforge",
+            "Version": "1.21-2.1.10",
+            "ProjectId": "6iTJugQR",
+            "DownloadUrl": "https://cdn.modrinth.com/data/6iTJugQR/versions/OYfMeeUK/amendments-1.21-2.1.10-neoforge.jar",
+            "Sha1": "d0cae2882177b7ad285021b48c128ddcc7022464",
+            "FileSize": 1168211
+        },
+        {
+            "FileName": "ApothicAttributes-1.21.1-2.11.0.jar",
+            "Status": "Success",
+            "ModTitle": "Apothic-Attributes 1.21.1-2.11.0",
+            "Version": "1.21.1-2.11.0",
+            "ProjectId": "DGaH8Rh0",
+            "DownloadUrl": "https://cdn.modrinth.com/data/DGaH8Rh0/versions/64fZbLnj/ApothicAttributes-1.21.1-2.11.0.jar",
+            "Sha1": "7ff0e452e10cb582c188626a413037e63db9ca04",
+            "FileSize": 319609
+        },
+        {
+            "FileName": "ApothicEnchanting-1.21.1-1.6.3.jar",
+            "Status": "Success",
+            "ModTitle": "Apothic-Enchanting 1.21.1-1.6.3",
+            "Version": "1.21.1-1.6.3",
+            "ProjectId": "pL8MtgqY",
+            "DownloadUrl": "https://cdn.modrinth.com/data/pL8MtgqY/versions/9ABEeMkc/ApothicEnchanting-1.21.1-1.6.3.jar",
+            "Sha1": "176b656816f45ef24a02172c5d8a3d3043e3bb18",
+            "FileSize": 5415943
+        },
+        {
+            "FileName": "appleskin-neoforge-mc1.21-3.0.9.jar",
+            "Status": "Success",
+            "ModTitle": "appleskin-neoforge-mc1.21-3.0.9",
+            "Version": "3.0.9+mc1.21",
+            "ProjectId": "EsAfCjCV",
+            "DownloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+            "Sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+            "FileSize": 75804
+        },
+        {
+            "FileName": "Aquaculture-1.21.1-2.7.21.jar",
+            "Status": "Success",
+            "ModTitle": "Aquaculture 2-1.21.1-2.7.21",
+            "Version": "2.7.21",
+            "ProjectId": "Vl1uNAuy",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/5pbz0ETj/Aquaculture-1.21.1-2.7.21.jar",
+            "Sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b",
+            "FileSize": 605949
+        },
+        {
+            "FileName": "aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Aquaculture Delight 1.2.0",
+            "Version": "1.2.0",
+            "ProjectId": "U9GJqWrI",
+            "DownloadUrl": "https://cdn.modrinth.com/data/U9GJqWrI/versions/VFpyJiVp/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+            "Sha1": "111393c07a98f29cab1de0d91965cc1bc6d9d73f",
+            "FileSize": 213607
+        },
+        {
+            "FileName": "architectury-13.0.11-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "[NeoForge 1.21] v13.0.11",
+            "Version": "13.0.11+neoforge",
+            "ProjectId": "lhGA9TYQ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+            "Sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+            "FileSize": 584734
+        },
+        {
+            "FileName": "authme-neoforge-9.0.1+1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "[NeoForge] Auth Me v9.0.1+1.21.1",
+            "Version": "v9.0.1+1.21.1",
+            "ProjectId": "yjgIrBjZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/NinhKHNO/authme-neoforge-9.0.1%2B1.21.1.jar",
+            "Sha1": "13d12989930705e645f82c625d25ac26bce589e5",
+            "FileSize": 364895
+        },
+        {
+            "FileName": "balm-neoforge-1.21.1-21.0.66.jar",
+            "Status": "Success",
+            "ModTitle": "21.0.66+neoforge-1.21.1",
+            "Version": "21.0.66+neoforge-1.21.1",
+            "ProjectId": "MBAkmtvl",
+            "DownloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/CquiaiDj/balm-neoforge-1.21.1-21.0.66.jar",
+            "Sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+            "FileSize": 783793
+        },
+        {
+            "FileName": "better-advanced-tooltips-2101.1.0-build.5.jar",
+            "Status": "Success",
+            "ModTitle": "Better Advanced Tooltips 2101.1.0-build.5",
+            "Version": "2101.1.0-build.5",
+            "ProjectId": "iHLDc0eo",
+            "DownloadUrl": "https://cdn.modrinth.com/data/iHLDc0eo/versions/uPFbnD32/better-advanced-tooltips-2101.1.0-build.5.jar",
+            "Sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+            "FileSize": 37653
+        },
+        {
+            "FileName": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "2.4.0+1.21.1",
+            "Version": "2.4.0+1.21.1-neoforge",
+            "ProjectId": "5sy6g3kz",
+            "DownloadUrl": "https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0%2B1.21.1.jar",
+            "Sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
+            "FileSize": 1045389
+        },
+        {
+            "FileName": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "BetterF3 NeoForge v11.0.3 (1.21.1)",
+            "Version": "11.0.3",
+            "ProjectId": "8shC1gFX",
+            "DownloadUrl": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+            "Sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+            "FileSize": 481646
+        },
+        {
+            "FileName": "bountiful-neoforge-8.0.0-beta.2.jar",
+            "Status": "Success",
+            "ModTitle": "Bountiful 8.0.0-beta.2",
+            "Version": "8.0.0-beta.2",
+            "ProjectId": "BpwWFOVM",
+            "DownloadUrl": "https://cdn.modrinth.com/data/BpwWFOVM/versions/swTb6NU9/bountiful-neoforge-8.0.0-beta.2.jar",
+            "Sha1": "8c1786d2850bd15c3a2dd0f50fccfda09125faa5",
+            "FileSize": 721006
+        },
+        {
+            "FileName": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.122.jar",
+            "Status": "Success",
+            "ModTitle": "0.4.0-alpha.0.122 backport devbuild for 1.21.1",
+            "Version": "0.4.0-alpha.0.122+1.21.1",
+            "ProjectId": "COlSi5iR",
+            "DownloadUrl": "https://cdn.modrinth.com/data/COlSi5iR/versions/yxOYFgnK/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.122.jar",
+            "Sha1": "91a9a9b7791fb8a9642752ca6009553a0546c96e",
+            "FileSize": 3717245
+        },
+        {
+            "FileName": "cc-tweaked-1.21.1-forge-1.120.2.jar",
+            "Status": "Success",
+            "ModTitle": "1.120.2",
+            "Version": "1.120.2",
+            "ProjectId": "gu7yAYhd",
+            "DownloadUrl": "https://cdn.modrinth.com/data/gu7yAYhd/versions/1ewzHZYg/cc-tweaked-1.21.1-forge-1.120.2.jar",
+            "Sha1": "f35d4f636c2eb1b30c5d3f5c08e110c6acb8e02f",
+            "FileSize": 3126327
+        },
+        {
+            "FileName": "cloth-config-15.0.140-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "[NeoForge 1.21] v15.0.140",
+            "Version": "15.0.140+neoforge",
+            "ProjectId": "9s6osm5g",
+            "DownloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+            "Sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+            "FileSize": 1163890
+        },
+        {
+            "FileName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge-1.21.1-19.0.0.1",
+            "Version": "19.0.0.1",
+            "ProjectId": "Wnxd13zP",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+            "Sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+            "FileSize": 18382
+        },
+        {
+            "FileName": "colorwheel-neoforge-1.3.0+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "1.3.0+mc1.21.1-neoforge",
+            "Version": "1.3.0+mc1.21.1",
+            "ProjectId": "BzHgFoGz",
+            "DownloadUrl": "https://cdn.modrinth.com/data/BzHgFoGz/versions/8rq5KP4U/colorwheel-neoforge-1.3.0%2Bmc1.21.1.jar",
+            "Sha1": "350a9476147f00e351745ae1c1446eefe706bd89",
+            "FileSize": 514376
+        },
+        {
+            "FileName": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "1.0.5+mc1.21.1-neoforge",
+            "Version": "1.0.5+mc1.21.1",
+            "ProjectId": "KPsw5jDu",
+            "DownloadUrl": "https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar",
+            "Sha1": "0e63780e5b8af294bf58609ac866b9866ab9537b",
+            "FileSize": 210569
+        },
+        {
+            "FileName": "Controlling-neoforge-1.21.1-19.0.5.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge-1.21.1-19.0.5",
+            "Version": "19.0.5",
+            "ProjectId": "xv94TkTM",
+            "DownloadUrl": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+            "Sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+            "FileSize": 77555
+        },
+        {
+            "FileName": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "copycats-3.0.9+mc.1.21.1-neoforge",
+            "Version": "3.0.9+mc.1.21.1-neoforge",
+            "ProjectId": "UT2M39wf",
+            "DownloadUrl": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+            "Sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+            "FileSize": 1799381
+        },
+        {
+            "FileName": "create-1.21.1-6.0.10.jar",
+            "Status": "Success",
+            "ModTitle": "Create 6.0.10 for mc1.21.1",
+            "Version": "6.0.10+mc1.21.1",
+            "ProjectId": "LNytGWDc",
+            "DownloadUrl": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+            "Sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+            "FileSize": 19123767
+        },
+        {
+            "FileName": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+            "Status": "Success",
+            "ModTitle": "Create Aeronautics 1.3.2 for mc1.21.1",
+            "Version": "1.3.2+mc1.21.1",
+            "ProjectId": "oWaK0Q19",
+            "DownloadUrl": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+            "Sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+            "FileSize": 33123131
+        },
+        {
+            "FileName": "create-enchantment-industry-2.5.4.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Enchantment Industry 2.5.4 for Create 1.21.1-6.0.10",
+            "Version": "2.5.4",
+            "ProjectId": "JWGBpFUP",
+            "DownloadUrl": "https://cdn.modrinth.com/data/JWGBpFUP/versions/WJ2VPWAG/create-enchantment-industry-2.5.4.jar",
+            "Sha1": "929a1ff0329f0033329f8c22bef785b2a8c4e776",
+            "FileSize": 1607409
+        },
+        {
+            "FileName": "createaddition-1.7.2.jar",
+            "Status": "Success",
+            "ModTitle": "Create Crafts \u0026 Additions 1.7.2",
+            "Version": "neoforge-1.21.1-1.7.2",
+            "ProjectId": "kU1G12Nn",
+            "DownloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar",
+            "Sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+            "FileSize": 1772844
+        },
+        {
+            "FileName": "createbetterfps-1.21.1-1.1.5.jar",
+            "Status": "Success",
+            "ModTitle": "CreateBetterFps 1.1.5",
+            "Version": "1.1.5",
+            "ProjectId": "lMYIHZNH",
+            "DownloadUrl": "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar",
+            "Sha1": "c06111569e30af58d1cec4b4ee4b545f0021172a",
+            "FileSize": 26542
+        },
+        {
+            "FileName": "createbigcannons-5.11.7+mc.1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Create Big Cannons 5.11.7",
+            "Version": "5.11.7",
+            "ProjectId": "GWp4jCJj",
+            "DownloadUrl": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+            "Sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+            "FileSize": 3771506
+        },
+        {
+            "FileName": "createdeco-2.1.3.jar",
+            "Status": "Success",
+            "ModTitle": "Create Deco 2.1.3",
+            "Version": "2.1.3",
+            "ProjectId": "sMvUb4Rb",
+            "DownloadUrl": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+            "Sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+            "FileSize": 3328498
+        },
+        {
+            "FileName": "CreateDragonsPlus-1.11.9.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Dragons Plus 1.11.9 for Create 1.21.1-6.0.10",
+            "Version": "1.11.9",
+            "ProjectId": "dzb1a5WV",
+            "DownloadUrl": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+            "Sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb",
+            "FileSize": 1085674
+        },
+        {
+            "FileName": "createfood-neoforge-1.21.1-3.0.0.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Food 3.0.0",
+            "Version": "3.0.0",
+            "ProjectId": "4HnO3el1",
+            "DownloadUrl": "https://cdn.modrinth.com/data/4HnO3el1/versions/uaxLGKon/createfood-neoforge-1.21.1-3.0.0.jar",
+            "Sha1": "8cb5a2bf84c7ce28e0ca5815785da35d23fd6569",
+            "FileSize": 11968172
+        },
+        {
+            "FileName": "createpropulsion-1.1.5.jar",
+            "Status": "Success",
+            "ModTitle": "Create Propulsion: Simulated 1.1.5",
+            "Version": "1.1.5",
+            "ProjectId": "ApkoHNO9",
+            "DownloadUrl": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar",
+            "Sha1": "928e9428ee92d07426c296b04a7fffb1e737e290",
+            "FileSize": 1707765
+        },
+        {
+            "FileName": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Threaded Trains 1.21.1-1.0.0",
+            "Version": "1.21.1-1.0.0",
+            "ProjectId": "RYJzdkDr",
+            "DownloadUrl": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+            "Sha1": "1dec765e324bf968a1685a173aff5a13c11d0856",
+            "FileSize": 77249
+        },
+        {
+            "FileName": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Aquatic Ambitions 2.0.4",
+            "Version": "1.21.1-6.0.10-2.0.4",
+            "ProjectId": "9SyaPzp7",
+            "DownloadUrl": "https://cdn.modrinth.com/data/9SyaPzp7/versions/DoI3PpXj/create_aquatic_ambitions-1.21.1-2.0.4.jar",
+            "Sha1": "a02ce8ffc8395566c4fbe7907e721e82fd1b590b",
+            "FileSize": 1074131
+        },
+        {
+            "FileName": "create_jetpack-forge-5.2.1.jar",
+            "Status": "Success",
+            "ModTitle": "Neoforge 5.2.1",
+            "Version": "5.2.1",
+            "ProjectId": "UbFnAd4l",
+            "DownloadUrl": "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar",
+            "Sha1": "cbd949c62723d805c2ab019def6e6718c50037b8",
+            "FileSize": 495109
+        },
+        {
+            "FileName": "create_radar-0.4.9.4-1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Radars 0.4.9.4-1.21.1",
+            "Version": "0.4.9.4-1.21.1",
+            "ProjectId": "BLu2Yqfq",
+            "DownloadUrl": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar",
+            "Sha1": "9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6",
+            "FileSize": 2990812
+        },
+        {
+            "FileName": "create_submarine-3.3.0.jar",
+            "Status": "Success",
+            "ModTitle": "Create Deep Seas 3.3.0",
+            "Version": "3.3.0",
+            "ProjectId": "mva5q4qZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/mva5q4qZ/versions/8CV1LRTl/create_submarine-3.3.0.jar",
+            "Sha1": "b1aaaf64423d9e80aa750c71de426f6aaa33989e",
+            "FileSize": 8109785
+        },
+        {
+            "FileName": "curios-neoforge-9.5.1+1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "curios-neoforge-9.5.1+1.21.1",
+            "Version": "9.5.1+1.21.1",
+            "ProjectId": "vvuO3ImH",
+            "DownloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+            "Sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+            "FileSize": 410690
+        },
+        {
+            "FileName": "datapatched-2.2.2-neoforge-21.1.jar",
+            "Status": "Success",
+            "ModTitle": "v2.2.2 ~ Neoforge 21.1",
+            "Version": "2.2.2-neoforge-21.1",
+            "ProjectId": "7XXwJbHD",
+            "DownloadUrl": "https://cdn.modrinth.com/data/7XXwJbHD/versions/lI5qe0ZW/datapatched-2.2.2-neoforge-21.1.jar",
+            "Sha1": "54eb03b3be4c2683846f973b6ac7ef79a430216c",
+            "FileSize": 139413
+        },
+        {
+            "FileName": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "3.3.3 - 1.21.1 neo/fabric",
+            "Version": "3.3.3-1.21.1",
+            "ProjectId": "uCdwusMi",
+            "DownloadUrl": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+            "Sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+            "FileSize": 28289212
+        },
+        {
+            "FileName": "DnDesires-1.21.1-2.3a-BETA.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Dreams \u0026 Desires 2.3a-BETA",
+            "Version": "2.3a-BETA",
+            "ProjectId": "JmybsfWs",
+            "DownloadUrl": "https://cdn.modrinth.com/data/JmybsfWs/versions/bqMxf6Ua/DnDesires-1.21.1-2.3a-BETA.jar",
+            "Sha1": "72635119b4bcc49b050c50d6cbb1abb02bb3982a",
+            "FileSize": 1249099
+        },
+        {
+            "FileName": "dynamicsurroundings-neoforge-1.21.1-0.4.5.jar",
+            "Status": "Success",
+            "ModTitle": "Dynamic Surroundings NeoForge 0.4.5",
+            "Version": "0.4.5",
+            "ProjectId": "H7fshfpD",
+            "DownloadUrl": "https://cdn.modrinth.com/data/H7fshfpD/versions/IzWXE0ve/dynamicsurroundings-neoforge-1.21.1-0.4.5.jar",
+            "Sha1": "39816ebe057cdfe94c419c52a0b4583d411e0b34",
+            "FileSize": 14952433
+        },
+        {
+            "FileName": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "1.11.2-1.21.1 - NeoForge",
+            "Version": "1.11.2",
+            "ProjectId": "NNAgCjsB",
+            "DownloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+            "Sha1": "2f723582d44b60b41d701a797846eaa45a3fef58",
+            "FileSize": 1510018
+        },
+        {
+            "FileName": "envelope-neoforge-1.21.1-0.7.5.jar",
+            "Status": "Success",
+            "ModTitle": "Envelope - 0.7.5",
+            "Version": "0.7.5",
+            "ProjectId": "bINSbhYK",
+            "DownloadUrl": "https://cdn.modrinth.com/data/bINSbhYK/versions/xTkokyBk/envelope-neoforge-1.21.1-0.7.5.jar",
+            "Sha1": "6438c750876f57e4d7508d5d1b4ea70c90078355",
+            "FileSize": 2214256
+        },
+        {
+            "FileName": "explosiveenhancement-neoforge-1.21.1-1.2.0.jar",
+            "Status": "Success",
+            "ModTitle": "Explosive Enhancement 1.2.0 NeoForge [1.21.1]",
+            "Version": "1.2.0",
+            "ProjectId": "r0camchr",
+            "DownloadUrl": "https://cdn.modrinth.com/data/r0camchr/versions/GYn7YRXz/explosiveenhancement-neoforge-1.21.1-1.2.0.jar",
+            "Sha1": "84aa1cd862ac5053a7e5c722370556ac12ccead8",
+            "FileSize": 96211
+        },
+        {
+            "FileName": "FarmersDelight-1.21.1-1.3.4.jar",
+            "Status": "Success",
+            "ModTitle": "Farmer\u0027s Delight 1.3.4 - 1.21.1",
+            "Version": "1.21.1-1.3.4",
+            "ProjectId": "R2OftAxM",
+            "DownloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
+            "Sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+            "FileSize": 3160490
+        },
+        {
+            "FileName": "farmingforblockheads-neoforge-1.21.1-21.1.14.jar",
+            "Status": "Success",
+            "ModTitle": "21.1.14+neoforge-1.21.1",
+            "Version": "21.1.14+neoforge-1.21.1",
+            "ProjectId": "4WJZr8JU",
+            "DownloadUrl": "https://cdn.modrinth.com/data/4WJZr8JU/versions/ljWZyuzV/farmingforblockheads-neoforge-1.21.1-21.1.14.jar",
+            "Sha1": "82f5f635cc73610d34a493ec067e28cd4659cbbb",
+            "FileSize": 895570
+        },
+        {
+            "FileName": "FastFurnace-1.21.1-9.0.1.jar",
+            "Status": "Success",
+            "ModTitle": "FastFurnace 1.21.1-9.0.1",
+            "Version": "1.21.1-9.0.1",
+            "ProjectId": "9X0318ev",
+            "DownloadUrl": "https://cdn.modrinth.com/data/9X0318ev/versions/pqj92Yco/FastFurnace-1.21.1-9.0.1.jar",
+            "Sha1": "cb77b3bc40bb598cfc50773d491c9e1af06d3833",
+            "FileSize": 4622
+        },
+        {
+            "FileName": "FastSuite-1.21.1-6.0.7.jar",
+            "Status": "Success",
+            "ModTitle": "FastSuite 1.21.1-6.0.7",
+            "Version": "1.21.1-6.0.7",
+            "ProjectId": "roccmqou",
+            "DownloadUrl": "https://cdn.modrinth.com/data/roccmqou/versions/OQZRQcDM/FastSuite-1.21.1-6.0.7.jar",
+            "Sha1": "9dd867fe29642d9e3f2f9059f1abf372936fbabc",
+            "FileSize": 28192
+        },
+        {
+            "FileName": "FastWorkbench-1.21.1-9.1.3.jar",
+            "Status": "Success",
+            "ModTitle": "FastWorkbench 1.21.1-9.1.3",
+            "Version": "1.21.1-9.1.3",
+            "ProjectId": "5NYPwQRn",
+            "DownloadUrl": "https://cdn.modrinth.com/data/5NYPwQRn/versions/IwciHwPN/FastWorkbench-1.21.1-9.1.3.jar",
+            "Sha1": "cfe55dc815979028d2a2211e26115dbd02273f87",
+            "FileSize": 28636
+        },
+        {
+            "FileName": "ferritecore-7.0.3-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "ferritecore-7.0.3-neoforge",
+            "Version": "7.0.3-neoforge",
+            "ProjectId": "uXXizFIs",
+            "DownloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+            "Sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+            "FileSize": 121559
+        },
+        {
+            "FileName": "fishermens_trap-Neoforge-1.21.1-3.1.0.jar",
+            "Status": "Success",
+            "ModTitle": "Fishermen\u0027s Trap 3.1.0 [Neoforge]",
+            "Version": "3.1.0",
+            "ProjectId": "ltRggnDx",
+            "DownloadUrl": "https://cdn.modrinth.com/data/ltRggnDx/versions/wvVNJYZw/fishermens_trap-Neoforge-1.21.1-3.1.0.jar",
+            "Sha1": "57f719b446b23070fcb917cf409b87a4e909024e",
+            "FileSize": 87447
+        },
+        {
+            "FileName": "flerovium-neoforge-1.21.1-1.2.0-all.jar",
+            "Status": "Success",
+            "ModTitle": "Flerovium 1.2.0",
+            "Version": "1.2.0",
+            "ProjectId": "4Rh1Mobu",
+            "DownloadUrl": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/PHD5rYo3/flerovium-neoforge-1.21.1-1.2.0-all.jar",
+            "Sha1": "09917774048af0ebf7f4d2293f281bfcd3df2fdb",
+            "FileSize": 194016
+        },
+        {
+            "FileName": "getittogetherdrops-neoforge-1.21.5-1.4.jar",
+            "Status": "Success",
+            "ModTitle": "1.21.x-neoforge-v1.4",
+            "Version": "v1.4",
+            "ProjectId": "T0OUgf8P",
+            "DownloadUrl": "https://cdn.modrinth.com/data/T0OUgf8P/versions/K4TUzlwa/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+            "Sha1": "ead940a50f69313802960c497e252acd3956334f",
+            "FileSize": 8825
+        },
+        {
+            "FileName": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge 1.3.2 (1.21.1)",
+            "Version": "1.3.2",
+            "ProjectId": "5faXoLqX",
+            "DownloadUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
+            "Sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
+            "FileSize": 213853
+        },
+        {
+            "FileName": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "ImmediatelyFast 1.6.14",
+            "Version": "1.6.14+1.21.1-neoforge",
+            "ProjectId": "5ZwdcRci",
+            "DownloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OUpXxw4n/ImmediatelyFast-NeoForge-1.6.14%2B1.21.1.jar",
+            "Sha1": "fee59af2f39c66d09c4c09f441c799e76af70f97",
+            "FileSize": 365195
+        },
+        {
+            "FileName": "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+            "Status": "Success",
+            "ModTitle": "12.4.2-194",
+            "Version": "12.4.2-194",
+            "ProjectId": "tIm2nV03",
+            "DownloadUrl": "https://cdn.modrinth.com/data/tIm2nV03/versions/uNRARSH2/ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+            "Sha1": "a4e90c2df8009040f6d022433c5d76635944dd59",
+            "FileSize": 14232121
+        },
+        {
+            "FileName": "immersive_optimization-neoforge-1.21.1-0.2.0.jar",
+            "Status": "Success",
+            "ModTitle": "[NeoForge 1.21.1] Immersive Optimization - 0.2.0",
+            "Version": "0.2.0+1.21.1",
+            "ProjectId": "vNZgQmjg",
+            "DownloadUrl": "https://cdn.modrinth.com/data/vNZgQmjg/versions/h2tTmurt/immersive_optimization-neoforge-1.21.1-0.2.0.jar",
+            "Sha1": "7e6693dae264f9185b8b12cf99e8407e7e532041",
+            "FileSize": 56122
+        },
+        {
+            "FileName": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Iris 1.8.14 Beta 1 for NeoForge 1.21.1",
+            "Version": "1.8.14-beta.1+1.21.1-neoforge",
+            "ProjectId": "YL57xq9U",
+            "DownloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+            "Sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+            "FileSize": 2540723
+        },
+        {
+            "FileName": "irisveil-0.4.0.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge 1.21.1+0.4.0-alpha",
+            "Version": "1.21.1+0.4.0-alpha",
+            "ProjectId": "owQyCHo4",
+            "DownloadUrl": "https://cdn.modrinth.com/data/owQyCHo4/versions/hWItkPzn/irisveil-0.4.0.jar",
+            "Sha1": "16cf9ea1a129d8aeccdff75affcd722bd2753948",
+            "FileSize": 956798
+        },
+        {
+            "FileName": "ItemLocks-NeoForged-1.21.1-1.3.13.jar",
+            "Status": "Success",
+            "ModTitle": "ItemLocks 1.21.1-1.3.13 (Neo)",
+            "Version": "1.21.1-1.3.13",
+            "ProjectId": "tJzrFuyy",
+            "DownloadUrl": "https://cdn.modrinth.com/data/tJzrFuyy/versions/kvMv5Lch/ItemLocks-NeoForged-1.21.1-1.3.13.jar",
+            "Sha1": "36c16dcec4a8b92131c51ad366cd5e117d981f12",
+            "FileSize": 81667
+        },
+        {
+            "FileName": "jei-1.21.1-neoforge-19.44.0.403.jar",
+            "Status": "Success",
+            "ModTitle": "19.44.0.403 for NeoForge 1.21.1",
+            "Version": "19.44.0.403",
+            "ProjectId": "u6dRKJwZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/LtwmFHuF/jei-1.21.1-neoforge-19.44.0.403.jar",
+            "Sha1": "f027864a444572205a546c78c48b882335540eb2",
+            "FileSize": 1698112
+        },
+        {
+            "FileName": "kambrik-neoforge-8.0.0-beta.2.jar",
+            "Status": "Success",
+            "ModTitle": "Kambrik 8.0.0-beta.2",
+            "Version": "8.0.0-beta.2",
+            "ProjectId": "zfbCkvdZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/rCSmCZpX/kambrik-neoforge-8.0.0-beta.2.jar",
+            "Sha1": "9e41688287925e7a65375d96f32eefca7ab2a821",
+            "FileSize": 436428
+        },
+        {
+            "FileName": "koreanpatch-neoforge-1.9.6+mc1.21.jar",
+            "Status": "Success",
+            "ModTitle": "Korean Chat Patch 1.9.6 for NeoForge 1.21",
+            "Version": "mc1.21-1.9.6-neoforge",
+            "ProjectId": "qyulnpBL",
+            "DownloadUrl": "https://cdn.modrinth.com/data/qyulnpBL/versions/CRXd37Zg/koreanpatch-neoforge-1.9.6%2Bmc1.21.jar",
+            "Sha1": "b8ea18df43478b1432dc184b313d9dc5ead2c19d",
+            "FileSize": 373120
+        },
+        {
+            "FileName": "kotlinforforge-5.12.0-all.jar",
+            "Status": "Success",
+            "ModTitle": "Kotlin for Forge 5.12.0",
+            "Version": "5.12.0",
+            "ProjectId": "ordsPcFz",
+            "DownloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+            "Sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+            "FileSize": 7279264
+        },
+        {
+            "FileName": "kubejs-neoforge-2101.7.2-build.377.jar",
+            "Status": "Success",
+            "ModTitle": "KubeJS NeoForge 2101.7.2-build.377",
+            "Version": "2101.7.2-build.377",
+            "ProjectId": "umyGl7zF",
+            "DownloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/THIGFPwf/kubejs-neoforge-2101.7.2-build.377.jar",
+            "Sha1": "7313fcd99318834c642ee9f3a05ed7fd7bcb6ef4",
+            "FileSize": 2294111
+        },
+        {
+            "FileName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge 1.5.5 (1.21.1)",
+            "Version": "1.5.5",
+            "ProjectId": "atHH8NyV",
+            "DownloadUrl": "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+            "Sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
+            "FileSize": 81808
+        },
+        {
+            "FileName": "lionfishapi-3.1.jar",
+            "Status": "Success",
+            "ModTitle": "Lionfish-API 3.1",
+            "Version": "3.1",
+            "ProjectId": "FoVacERa",
+            "DownloadUrl": "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar",
+            "Sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+            "FileSize": 91596
+        },
+        {
+            "FileName": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Lithium 0.15.4 for Neoforge",
+            "Version": "mc1.21.1-0.15.4-neoforge",
+            "ProjectId": "gvQqBUqZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+            "Sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+            "FileSize": 774220
+        },
+        {
+            "FileName": "lithosphere-1.8.2.jar",
+            "Status": "Success",
+            "ModTitle": "1.8.2",
+            "Version": "1.8.2+mod",
+            "ProjectId": "iv9jp2k9",
+            "DownloadUrl": "https://cdn.modrinth.com/data/iv9jp2k9/versions/aatZx6pq/lithosphere-1.8.2.jar",
+            "Sha1": "1a81d09d9ab376f80b77619a8ed7d2439cc3890d",
+            "FileSize": 984074
+        },
+        {
+            "FileName": "lithostitched-1.8.0-neoforge-21.1.jar",
+            "Status": "Success",
+            "ModTitle": "v1.8.0 ~ Neoforge 21.1",
+            "Version": "1.8.0-neoforge-21.1",
+            "ProjectId": "XaDC71GB",
+            "DownloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/sPmtDq1X/lithostitched-1.8.0-neoforge-21.1.jar",
+            "Sha1": "fe7eb612a0fa0c41ce94d914162d298755bb25a3",
+            "FileSize": 979783
+        },
+        {
+            "FileName": "L_Ender\u0027s Cataclysm 1.21.1-3.33.jar",
+            "Status": "Success",
+            "ModTitle": "L_Ender\u0027s Cataclysm 3.33",
+            "Version": "3.33",
+            "ProjectId": "46KJle7n",
+            "DownloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar",
+            "Sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
+            "FileSize": 73375667
+        },
+        {
+            "FileName": "map_atlases-1.21-7.0.1-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "map_atlases-1.21-7.0.1-neoforge",
+            "Version": "1.21-7.0.1",
+            "ProjectId": "4hwXMFif",
+            "DownloadUrl": "https://cdn.modrinth.com/data/4hwXMFif/versions/ecuMnNO4/map_atlases-1.21-7.0.1-neoforge.jar",
+            "Sha1": "6b1310fbb682b7fdca50eedd6c9ab058c190f9fc",
+            "FileSize": 679756
+        },
+        {
+            "FileName": "Mekanism-1.21.1-10.7.19.85.jar",
+            "Status": "Success",
+            "ModTitle": "10.7.19.85",
+            "Version": "10.7.19.85",
+            "ProjectId": "Ce6I4WUE",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/5KzzycBT/Mekanism-1.21.1-10.7.19.85.jar",
+            "Sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805",
+            "FileSize": 11976009
+        },
+        {
+            "FileName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+            "Version": "5.27.24+mc1.21.1",
+            "ProjectId": "nmDcB62a",
+            "DownloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+            "Sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529",
+            "FileSize": 604333
+        },
+        {
+            "FileName": "molten_vents-1.21.1-2.1.1.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Molten Vents 2.1.1",
+            "Version": "2.1.1",
+            "ProjectId": "uuVy6k1s",
+            "DownloadUrl": "https://cdn.modrinth.com/data/uuVy6k1s/versions/By33YVeb/molten_vents-1.21.1-2.1.1.jar",
+            "Sha1": "0d645330128d1d7dc0b330760f4517d3ff4a2a9d",
+            "FileSize": 88500
+        },
+        {
+            "FileName": "moonlight-1.21.1-3.7.0-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "moonlight-1.21.1-3.7.0-neoforge",
+            "Version": "1.21.1-3.7.0",
+            "ProjectId": "twkfQtEc",
+            "DownloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/t6iFh4M3/moonlight-1.21.1-3.7.0-neoforge.jar",
+            "Sha1": "3e909f886ffca21bbe03cce510c68da2e7165580",
+            "FileSize": 2298394
+        },
+        {
+            "FileName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+            "Version": "1.21-2.26.1-neoforge",
+            "ProjectId": "aC3cM3Vq",
+            "DownloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+            "Sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+            "FileSize": 73938
+        },
+        {
+            "FileName": "MyNethersDelight-1.21.1-1.10.4.1.jar",
+            "Status": "Success",
+            "ModTitle": "My Nether\u0027s Delight 1.10.4.1",
+            "Version": "1.10.4.1",
+            "ProjectId": "O53VhQoZ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/O53VhQoZ/versions/SGFJBL5q/MyNethersDelight-1.21.1-1.10.4.1.jar",
+            "Sha1": "9c54439d65e77c7b4b711831138f81f3a849ff35",
+            "FileSize": 905059
+        },
+        {
+            "FileName": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "1.12.6-1.21.1 - NeoForge",
+            "Version": "1.12.6",
+            "ProjectId": "MPCX6s5C",
+            "DownloadUrl": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+            "Sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+            "FileSize": 1866035
+        },
+        {
+            "FileName": "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+            "Status": "Success",
+            "ModTitle": "[NEOFORGE] [1.21.1] OverflowingBars-v21.1.1",
+            "Version": "v21.1.1-1.21.1-NeoForge",
+            "ProjectId": "XD7XOrAF",
+            "DownloadUrl": "https://cdn.modrinth.com/data/XD7XOrAF/versions/PYRrjTaY/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+            "Sha1": "a9dea4b9ef893fc955512ff2dee75c9c82e09a52",
+            "FileSize": 78482
+        },
+        {
+            "FileName": "particular-1.21.1-NeoForge-1.5.7.jar",
+            "Status": "Success",
+            "ModTitle": "particular-1.21.1-NeoForge-1.5.7.jar",
+            "Version": "1.5.7",
+            "ProjectId": "pYFUU6cq",
+            "DownloadUrl": "https://cdn.modrinth.com/data/pYFUU6cq/versions/WyRBAcBf/particular-1.21.1-NeoForge-1.5.7.jar",
+            "Sha1": "d6d33e8233481ad8fc6f8c351f52783ed431a800",
+            "FileSize": 315841
+        },
+        {
+            "FileName": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v5.1.3 (NeoForge)",
+            "Version": "1.21.1-NeoForge-5.1.3",
+            "ProjectId": "CU0PAyzb",
+            "DownloadUrl": "https://cdn.modrinth.com/data/CU0PAyzb/versions/CLZfFbCx/Paxi-1.21.1-NeoForge-5.1.3.jar",
+            "Sha1": "7140974a26a2cd79cdc7b85ab4e834916eacc7f1",
+            "FileSize": 102980
+        },
+        {
+            "FileName": "pfsable-1.0.jar",
+            "Status": "Success",
+            "ModTitle": "Presence Footsteps x Sable 1.0",
+            "Version": "1.0",
+            "ProjectId": "ZAhKrMSS",
+            "DownloadUrl": "https://cdn.modrinth.com/data/ZAhKrMSS/versions/Mnm18kQK/pfsable-1.0.jar",
+            "Sha1": "a216dfce15550c50436012283e49606c67a87e29",
+            "FileSize": 75997
+        },
+        {
+            "FileName": "Placebo-1.21.1-9.9.2.jar",
+            "Status": "Success",
+            "ModTitle": "Placebo 1.21.1-9.9.2",
+            "Version": "1.21.1-9.9.2",
+            "ProjectId": "tCkE8p2N",
+            "DownloadUrl": "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar",
+            "Sha1": "d44335094cf2db64998cb3ee31e58d8c01e80b4a",
+            "FileSize": 324058
+        },
+        {
+            "FileName": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "2.0.4+1.21.1-forge",
+            "Version": "2.0.4+1.21.1-forge",
+            "ProjectId": "gedNE4y2",
+            "DownloadUrl": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+            "Sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+            "FileSize": 203149
+        },
+        {
+            "FileName": "powergrid-mc1.21.1-0.6.2.jar",
+            "Status": "Success",
+            "ModTitle": "Power Grid - 0.6.2 - NeoForge",
+            "Version": "0.6.2",
+            "ProjectId": "eWiBLJ9R",
+            "DownloadUrl": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/jCkPHjmP/powergrid-mc1.21.1-0.6.2.jar",
+            "Sha1": "e09452dac8202e31f282149d45c49dcdb218bd54",
+            "FileSize": 5738480
+        },
+        {
+            "FileName": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+            "Status": "Success",
+            "ModTitle": "Presence Footsteps (NeoForge) 1.21.1-1.12.0-beta.1",
+            "Version": "1.21.1-1.12.0-beta.1",
+            "ProjectId": "JIEwmDVI",
+            "DownloadUrl": "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+            "Sha1": "71bd6de2b01441d92be1e109879b76b7750bd787",
+            "FileSize": 7096988
+        },
+        {
+            "FileName": "Prism-1.21.1-neoforge-1.0.11.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge 1.0.11 (1.21.1)",
+            "Version": "1.0.11",
+            "ProjectId": "1OE8wbN0",
+            "DownloadUrl": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+            "Sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+            "FileSize": 62031
+        },
+        {
+            "FileName": "puffish_attributes-0.8.3-1.21-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "Pufferfish\u0027s Attributes 0.8.3",
+            "Version": "0.8.3",
+            "ProjectId": "FCFcFw09",
+            "DownloadUrl": "https://cdn.modrinth.com/data/FCFcFw09/versions/ZySEqrUb/puffish_attributes-0.8.3-1.21-neoforge.jar",
+            "Sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
+            "FileSize": 235542
+        },
+        {
+            "FileName": "puffish_skills-0.19.1-1.21-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "Pufferfish\u0027s Skills 0.19.1",
+            "Version": "0.19.1",
+            "ProjectId": "hqQqvaa4",
+            "DownloadUrl": "https://cdn.modrinth.com/data/hqQqvaa4/versions/uqAz8XFU/puffish_skills-0.19.1-1.21-neoforge.jar",
+            "Sha1": "9e0b16f97427fc7b0049fa3f518579cdc9fe59f9",
+            "FileSize": 653105
+        },
+        {
+            "FileName": "punchy-2.7e-neoforge-1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Punchy 2.7e (NeoForge) - 1.21.1",
+            "Version": "2.7e",
+            "ProjectId": "8aoMKplv",
+            "DownloadUrl": "https://cdn.modrinth.com/data/8aoMKplv/versions/VLH9BG2z/punchy-2.7e-neoforge-1.21.1.jar",
+            "Sha1": "c5d512d0ce39257f47d8e31997c45018f022d571",
+            "FileSize": 1803225
+        },
+        {
+            "FileName": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "v21.1.62-mc1.21.1+neoforge",
+            "Version": "21.1.62",
+            "ProjectId": "QAGBst4M",
+            "DownloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/1TmfTuyw/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
+            "Sha1": "0d1675576fe17acc1f350a5505177ae08c17299b",
+            "FileSize": 1450242
+        },
+        {
+            "FileName": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Steam \u0027n\u0027 Rails Neoforge 0.3.0-beta.2+neoforge-mc1.21.1",
+            "Version": "0.3.0-beta.2+neoforge-mc1.21.1",
+            "ProjectId": "L3Jv0QZI",
+            "DownloadUrl": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+            "Sha1": "82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4",
+            "FileSize": 18728584
+        },
+        {
+            "FileName": "redstonepen-1.21-neoforge-1.11.42.jar",
+            "Status": "Success",
+            "ModTitle": "1.21-1.11.42",
+            "Version": "1.11.42",
+            "ProjectId": "DwE83ioX",
+            "DownloadUrl": "https://cdn.modrinth.com/data/DwE83ioX/versions/lpcV2XTc/redstonepen-1.21-neoforge-1.11.42.jar",
+            "Sha1": "4c9a706061c0e303a02431905a4fbb63c28d14be",
+            "FileSize": 513816
+        },
+        {
+            "FileName": "responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar",
+            "Status": "Success",
+            "ModTitle": "Responsive Knockback 1.1 for NeoForge on MC 1.20.5 to 1.21.x",
+            "Version": "1.1",
+            "ProjectId": "FMQ7tQOa",
+            "DownloadUrl": "https://cdn.modrinth.com/data/FMQ7tQOa/versions/ptz4V6RX/responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar",
+            "Sha1": "ee49216914e874ac2bda69d768215150cc7e8f31",
+            "FileSize": 74383
+        },
+        {
+            "FileName": "responsiveshields-2.4-neoforge-mc1.21.x.jar",
+            "Status": "Success",
+            "ModTitle": "Responsive Shields 2.4 for NeoForge on Minecraft 1.21.0 to 1",
+            "Version": "2.4",
+            "ProjectId": "MBmh0f9A",
+            "DownloadUrl": "https://cdn.modrinth.com/data/MBmh0f9A/versions/mNqXF51P/responsiveshields-2.4-neoforge-mc1.21.x.jar",
+            "Sha1": "88802fef082efe28a0dc3cc98be03adda27647e1",
+            "FileSize": 64831
+        },
+        {
+            "FileName": "rhino-2101.2.8-build.91.jar",
+            "Status": "Success",
+            "ModTitle": "Rhino 2101.2.8-build.91",
+            "Version": "2101.2.8-build.91+Rhino-1.21",
+            "ProjectId": "sk9knFPE",
+            "DownloadUrl": "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar",
+            "Sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad",
+            "FileSize": 980936
+        },
+        {
+            "FileName": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "Ritchie\u0027s Projectile Library 2.1.2",
+            "Version": "2.1.2",
+            "ProjectId": "B3pb093D",
+            "DownloadUrl": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+            "Sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+            "FileSize": 76369
+        },
+        {
+            "FileName": "sable-neoforge-1.21.1-2.0.6.jar",
+            "Status": "Success",
+            "ModTitle": "Sable NeoForge 2.0.6 for mc1.21.1",
+            "Version": "2.0.6+mc1.21.1",
+            "ProjectId": "T9PomCSv",
+            "DownloadUrl": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+            "Sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+            "FileSize": 12986135
+        },
+        {
+            "FileName": "Searchables-neoforge-1.21.1-1.0.2.jar",
+            "Status": "Success",
+            "ModTitle": "NeoForge-1.21.1-1.0.2",
+            "Version": "1.0.2",
+            "ProjectId": "fuuu3xnx",
+            "DownloadUrl": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
+            "Sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+            "FileSize": 77326
+        },
+        {
+            "FileName": "silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+            "Status": "Success",
+            "ModTitle": "Silent Gear 4.2.1.1",
+            "Version": "4.2.1.1",
+            "ProjectId": "73mSSnCf",
+            "DownloadUrl": "https://cdn.modrinth.com/data/73mSSnCf/versions/VRVOMdub/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+            "Sha1": "928064b09748d6e963077c114d65f5ce79aff581",
+            "FileSize": 3147675
+        },
+        {
+            "FileName": "silent-lib-1.21.1-neoforge-10.6.0.jar",
+            "Status": "Success",
+            "ModTitle": "Silent Lib 10.6.0",
+            "Version": "10.6.0",
+            "ProjectId": "BQhuHQo4",
+            "DownloadUrl": "https://cdn.modrinth.com/data/BQhuHQo4/versions/xavD8Lt3/silent-lib-1.21.1-neoforge-10.6.0.jar",
+            "Sha1": "991055113a165bef7d0b620c091165d55f7dbb24",
+            "FileSize": 268791
+        },
+        {
+            "FileName": "sliceanddice-4.3.4-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "Neoforge 4.3.4",
+            "Version": "4.3.4",
+            "ProjectId": "GmjmRQ0A",
+            "DownloadUrl": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
+            "Sha1": "bfcb12d13465caf6743f200fbd755b72705011e4",
+            "FileSize": 1356389
+        },
+        {
+            "FileName": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "Sodium 0.8.13 for NeoForge 1.21.1",
+            "Version": "mc1.21.1-0.8.13-neoforge",
+            "ProjectId": "AANobbMI",
+            "DownloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+            "Sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+            "FileSize": 1292934
+        },
+        {
+            "FileName": "sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+            "Status": "Success",
+            "ModTitle": "1.21.1-3.26.7.2182",
+            "Version": "1.21.1-3.26.7.2182",
+            "ProjectId": "TyCTlI4b",
+            "DownloadUrl": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Igmp9PwW/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+            "Sha1": "765da4f602b17376909d810bffc39691fae9d583",
+            "FileSize": 1239138
+        },
+        {
+            "FileName": "sophisticatedcore-1.21.1-1.5.5.2363.jar",
+            "Status": "Success",
+            "ModTitle": "1.21.1-1.5.5.2363",
+            "Version": "1.21.1-1.5.5.2363",
+            "ProjectId": "nmoqTijg",
+            "DownloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/nSoNwJfm/sophisticatedcore-1.21.1-1.5.5.2363.jar",
+            "Sha1": "7efd2447a97bf572e572764bd9939aa0ed7b8c32",
+            "FileSize": 1811070
+        },
+        {
+            "FileName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+            "Status": "Success",
+            "ModTitle": "[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1",
+            "Version": "neoforge-1.21.1-1.5.1",
+            "ProjectId": "qyVF9oeo",
+            "DownloadUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+            "Sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
+            "FileSize": 202454
+        },
+        {
+            "FileName": "SSRD-1.8.7-1.21.1.jar",
+            "Status": "Success",
+            "ModTitle": "SSRD 1.8.7",
+            "Version": "1.8.7",
+            "ProjectId": "fJ183v3D",
+            "DownloadUrl": "https://cdn.modrinth.com/data/fJ183v3D/versions/iZflRKdV/SSRD-1.8.7-1.21.1.jar",
+            "Sha1": "7da02fc5f783bedb55a29268e4c8ba7b0c3c9e6f",
+            "FileSize": 74407
+        },
+        {
+            "FileName": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+            "Status": "Success",
+            "ModTitle": "Storage Drawers-1.21.1-neoforge-13.11.4",
+            "Version": "1.21.1-13.11.4",
+            "ProjectId": "guitPqEi",
+            "DownloadUrl": "https://cdn.modrinth.com/data/guitPqEi/versions/px0CCB06/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+            "Sha1": "b8e11e3d1fd63fd1a0d9277ec3f966c7e5cff385",
+            "FileSize": 1131420
+        },
+        {
+            "FileName": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+            "Status": "Success",
+            "ModTitle": "supplementaries-1.21.1-3.9.9-neoforge",
+            "Version": "1.21.1-3.9.9",
+            "ProjectId": "fFEIiSDQ",
+            "DownloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/WrZWfRjP/supplementaries-1.21.1-3.9.9-neoforge.jar",
+            "Sha1": "06ed05381a5653d90398dc6ebf3ad1154add6374",
+            "FileSize": 13548968
+        },
+        {
+            "FileName": "tectonic-3.0.28-neoforge-21.1.jar",
+            "Status": "Success",
+            "ModTitle": "v3.0.28 ~ Neoforge 21.1",
+            "Version": "3.0.28-neoforge-21.1",
+            "ProjectId": "lWDHr9jE",
+            "DownloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/n4iyW7aB/tectonic-3.0.28-neoforge-21.1.jar",
+            "Sha1": "db15156eec4320c2997c4dd4948119472de01224",
+            "FileSize": 451757
+        },
+        {
+            "FileName": "tfmg-1.21.1-1.3.2a-community.jar",
+            "Status": "Success",
+            "ModTitle": "1.3.2a [Community Edition]",
+            "Version": "1.3.2a",
+            "ProjectId": "hC1xYvnS",
+            "DownloadUrl": "https://cdn.modrinth.com/data/hC1xYvnS/versions/L0pdVzc7/tfmg-1.21.1-1.3.2a-community.jar",
+            "Sha1": "32db66ef75c8e1b956683c1caa06d0e28ff3aba1",
+            "FileSize": 5534993
+        },
+        {
+            "FileName": "toofast-1.21.0-0.4.3.5.jar",
+            "Status": "Success",
+            "ModTitle": "Too Fast 0.4.3.5",
+            "Version": "0.4.3.5",
+            "ProjectId": "w6JSkKSH",
+            "DownloadUrl": "https://cdn.modrinth.com/data/w6JSkKSH/versions/pDkjMI8q/toofast-1.21.0-0.4.3.5.jar",
+            "Sha1": "7940d2516a492ff687696dfc0f8b66a6c628baad",
+            "FileSize": 3352
+        },
+        {
+            "FileName": "tracks_plus-1.0.6b7.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Tracks+ 1.0.6b7",
+            "Version": "1.0.6b7",
+            "ProjectId": "E8eHF2Yl",
+            "DownloadUrl": "https://cdn.modrinth.com/data/E8eHF2Yl/versions/qUDRhHla/tracks_plus-1.0.6b7.jar",
+            "Sha1": "a1df1c19211ce8288e241dc8c3f9167694b20a8f",
+            "FileSize": 613537
+        },
+        {
+            "FileName": "TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+            "Status": "Success",
+            "ModTitle": "[NEOFORGE] [1.21.1] TradingPost-v21.1.1",
+            "Version": "v21.1.1-1.21.1-NeoForge",
+            "ProjectId": "8pcjMDgj",
+            "DownloadUrl": "https://cdn.modrinth.com/data/8pcjMDgj/versions/iAzPpBdI/TradingPost-v21.1.1-1.21.1-NeoForge.jar",
+            "Sha1": "030a4f9fb5be80db3f982ded814fbc36e5101a7e",
+            "FileSize": 121731
+        },
+        {
+            "FileName": "trading_floor-3.0.16.jar",
+            "Status": "Success",
+            "ModTitle": "Create: Trading Floor 3.0.16 Neoforge 1.21.1",
+            "Version": "3.0.16",
+            "ProjectId": "WROfLLvn",
+            "DownloadUrl": "https://cdn.modrinth.com/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar",
+            "Sha1": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c",
+            "FileSize": 214343
+        },
+        {
+            "FileName": "trimmable-tools-2.1.1-neoforge-21.1.jar",
+            "Status": "Success",
+            "ModTitle": "v2.1.1 ~ Neoforge 21.1",
+            "Version": "2.1.1-neoforge-21.1",
+            "ProjectId": "MJu3fF3K",
+            "DownloadUrl": "https://cdn.modrinth.com/data/MJu3fF3K/versions/ywx8hTAR/trimmable-tools-2.1.1-neoforge-21.1.jar",
+            "Sha1": "807485784df352fd05ac65cb62427ffe411b7c49",
+            "FileSize": 272990
+        },
+        {
+            "FileName": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v5.1.9 (NeoForge)",
+            "Version": "1.21.1-NeoForge-5.1.9",
+            "ProjectId": "Ua7DFN59",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+            "Sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+            "FileSize": 413763
+        },
+        {
+            "FileName": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v4.1.5 (NeoForge)",
+            "Version": "1.21.1-NeoForge-4.1.5",
+            "ProjectId": "XNlO7sBv",
+            "DownloadUrl": "https://cdn.modrinth.com/data/XNlO7sBv/versions/GQ9iNWkI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+            "Sha1": "90529257dbd92558998c65178294bc7b2fd16a64",
+            "FileSize": 905839
+        },
+        {
+            "FileName": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v3.1.5 (NeoForge)",
+            "Version": "1.21.1-NeoForge-3.1.5",
+            "ProjectId": "Z2mXHnxP",
+            "DownloadUrl": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+            "Sha1": "4061ece2141475227646649046fc14c2da505922",
+            "FileSize": 609639
+        },
+        {
+            "FileName": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v4.1.2 (NeoForge)",
+            "Version": "1.21.1-NeoForge-4.1.2",
+            "ProjectId": "3dT9sgt4",
+            "DownloadUrl": "https://cdn.modrinth.com/data/3dT9sgt4/versions/yFjEcj2g/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+            "Sha1": "fba629defdb92ad99ec4f411895afb6e19555a18",
+            "FileSize": 1025571
+        },
+        {
+            "FileName": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+            "Status": "Success",
+            "ModTitle": "[1.21.1] v5.1.3 (NeoForge)",
+            "Version": "1.21.1-NeoForge-5.1.3",
+            "ProjectId": "kidLKymU",
+            "DownloadUrl": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+            "Sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
+            "FileSize": 461244
+        }
+    ],
+    "TotalFiles": 127
+}
