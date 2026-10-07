@@ -1,4 +1,4 @@
-﻿
+
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
 $ProgressPreference = 'SilentlyContinue';
@@ -77,28 +77,43 @@ function Install-ModsFromManifest {
     $manifest = $null
 
     # [원격 배포 모드] GitHub Raw Content URL을 통한 온라인 매니페스트 수신 (추후 활성화)
-    # $remoteManifestUrl = "https://raw.githubusercontent.com/<USERNAME>/<REPOSITORY>/main/mods_manifest.json"
-    # Write-Host "온라인 매니페스트 조회 중: $remoteManifestUrl ..." -ForegroundColor Cyan
-    # try {
-    #     $manifest = Invoke-RestMethod -Uri $remoteManifestUrl -Method Get -ErrorAction Stop
-    # }
-    # catch {
-    #     Write-Warning "온라인 매니페스트 수신 실패: $($_.Exception.Message). 로컬 매니페스트를 탐색합니다."
-    # }
+    $remoteManifestUrl = "https://raw.githubusercontent.com/Elaski6573/Creator-Minecraft-Server/main/mods_manifest.json"
+    Write-Host "온라인 매니페스트 조회 중: $remoteManifestUrl ..." -ForegroundColor Cyan
+    try {
+        $manifest = Invoke-RestMethod -Uri $remoteManifestUrl -Method Get -ErrorAction Stop
+    }
+    catch {
+        Write-Warning "온라인 매니페스트 수신 실패: $($_.Exception.Message). 로컬 매니페스트를 탐색합니다."
+    }
 
-    # [로컬 모드] 웹 조회가 주석 처리되어 있거나 로컬 환경일 때 파일에서 읽기
+    # [로컬 모드] 온라인 매니페스트 수신 실패 또는 로컬 환경일 때 폴백 탐색
     if (-not $manifest) {
-        if (-not (Test-Path $ManifestFilePath)) {
-            $fallback = Join-Path $PSScriptRoot "mods_manifest.json"
-            if (Test-Path $fallback) {
-                $ManifestFilePath = $fallback
+        $searchCandidates = @(
+            $ManifestFilePath,
+            (if ($PSScriptRoot) { Join-Path $PSScriptRoot "mods_manifest.json" }),
+            (Join-Path (Get-Location).Path "mods_manifest.json")
+        ) | Where-Object { $_ -and (Test-Path $_) }
+
+        if ($searchCandidates.Count -gt 0) {
+            $foundManifestPath = $searchCandidates[0]
+            Write-Host "로컬 매니페스트를 사용합니다: $foundManifestPath" -ForegroundColor Gray
+            try {
+                $manifest = Get-Content -Path $foundManifestPath -Raw -Encoding utf8 | ConvertFrom-Json
             }
-            else {
-                Write-Error "매니페스트 파일(mods_manifest.json)을 찾을 수 없습니다: $ManifestFilePath"
-                return
+            catch {
+                Write-Warning "로컬 매니페스트 파싱 실패: $($_.Exception.Message)"
             }
         }
-        $manifest = Get-Content -Path $ManifestFilePath -Raw -Encoding utf8 | ConvertFrom-Json
+    }
+
+    # 매니페스트 최종 검증: 온라인/로컬 모두 실패한 경우 안전하게 중단
+    if (-not $manifest -or -not $manifest.Mods -or $manifest.Mods.Count -eq 0) {
+        Write-Host "`n[오류] 모드 매니페스트(mods_manifest.json)를 불러올 수 없습니다." -ForegroundColor Red
+        Write-Host "원인:" -ForegroundColor Yellow
+        Write-Host "  1. 온라인 주소($remoteManifestUrl)에 접속할 수 없거나 파일이 없습니다." -ForegroundColor White
+        Write-Host "  2. 로컬 디렉토리에 mods_manifest.json 파일이 존재하지 않습니다.`n" -ForegroundColor White
+        Write-Host "인터넷 연결 상태 또는 GitHub 저장소 상태를 확인한 후 다시 시도해주세요." -ForegroundColor Yellow
+        return
     }
 
     $mods = $manifest.Mods
