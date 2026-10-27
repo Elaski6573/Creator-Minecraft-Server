@@ -1,13 +1,15 @@
 const TILL_RECIPES = {
-    // 1. Farmer's Delight - 기름진 흙
     'farmersdelight:rich_soil': {
         result: 'farmersdelight:rich_soil_farmland[moisture=7]',
         sound: 'minecraft:item.hoe.till'
     },
-    // 2. Supplementaries - 자갈
     'minecraft:gravel': {
         result: 'supplementaries:raked_gravel',
         sound: 'minecraft:block.gravel.place'
+    },
+    'mynethersdelight:resurgent_soil': {
+        result: 'mynethersdelight:resurgent_soil_farmland',
+        sound: 'minecraft:item.hoe.till'
     }
 };
 
@@ -15,7 +17,7 @@ BlockEvents.rightClicked(event => {
     const { player, item, block, level } = event;
 
     // 1. 넵투늄 괭이 확인
-    if (!item || item.id !== 'aquaculture:neptunium_hoe') return;
+    if(!item || item.id !== 'aquaculture:neptunium_hoe') return;
     if(!block) return;
     
     const recipe = TILL_RECIPES[block.id];
@@ -27,8 +29,10 @@ BlockEvents.rightClicked(event => {
 
     const srv = event.server || player.server || level.server;
 
-    if (srv) {
-        srv.runCommandSilent(`setblock ${block.x} ${block.y} ${block.z} ${recipe.result} replace`);
+    if (player) {
+        player.runCommandSilent(`setblock ${block.x} ${block.y} ${block.z} ${recipe.result} replace`);
+    } else if (srv) {
+        srv.runCommandSilent(`execute in ${level.dimension} run setblock ${block.x} ${block.y} ${block.z} ${recipe.result} replace`);
     } else {
         block.set(recipe.result);
     }
